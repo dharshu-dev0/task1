@@ -1,4 +1,4 @@
-# 🔥 Forge — Build Real Skills, Not Just Watch Tutorials
+# Forge — Build Real Skills, Not Just Watch Tutorials
 
 A modern, responsive landing page for **Forge**, a fictional project-based learning platform that encourages developers to build real-world projects instead of only watching tutorials.
 
@@ -6,7 +6,7 @@ This project was built using **HTML5** and **CSS3** with a focus on clean UI, re
 
 ---
 
-## 📸 Preview
+##  Preview
 
 > Add a screenshot of the landing page here.
 
@@ -19,7 +19,7 @@ assets/
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Modern responsive landing page
 * Fully responsive design for desktop, tablet, and mobile
@@ -36,7 +36,7 @@ assets/
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * HTML5
 * CSS3
@@ -49,7 +49,7 @@ assets/
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 forge-landing-page/
@@ -57,13 +57,11 @@ forge-landing-page/
 ├── index.html
 ├── style.css
 ├── README.md
-└── assets/
-    └── preview.png
 ```
 
 ---
 
-## 🎨 Color Palette
+##  Color Palette
 
 | Color      | Hex     |
 | ---------- | ------- |
@@ -75,7 +73,7 @@ forge-landing-page/
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The landing page is optimized for:
 
@@ -88,7 +86,7 @@ Media queries ensure a consistent experience across different screen sizes.
 
 ---
 
-## ✨ Sections Included
+##  Sections Included
 
 * Sticky Header
 * Hero Section
@@ -99,7 +97,7 @@ Media queries ensure a consistent experience across different screen sizes.
 
 ---
 
-## 💡 Design Goals
+##  Design Goals
 
 This project focuses on:
 
@@ -113,7 +111,7 @@ This project focuses on:
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 While building this project, I practiced:
 
@@ -128,7 +126,7 @@ While building this project, I practiced:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Dark Mode
 * JavaScript interactions
@@ -141,7 +139,7 @@ While building this project, I practiced:
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for learning and portfolio purposes.
 
@@ -149,10 +147,9 @@ Feel free to explore, modify, and use it for educational purposes.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Dharshan Kumar**
 
 Frontend Developer | Web Development Enthusiast
 
-If you like this project, consider giving it a ⭐ on GitHub.
